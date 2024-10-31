@@ -45,25 +45,25 @@ A powerful, lightweight server monitoring script that provides real-time insight
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/server-monitor.git
-cd server-monitor
+git clone https://github.com/ChitturiSagar/server-stats.git
+cd server-stats
 ```
 
 2. Make the script executable:
 ```bash
-chmod +x server-monitor.sh
+chmod +x server-stats.sh
 ```
 
 ### Usage
 
 #### Basic Execution
 ```bash
-./server-monitor.sh
+./server-stats.sh
 ```
 
 #### Advanced Options
 ```bash
-./server-monitor.sh -i 10 -n 8 -l stats.log
+./server-stats.sh -i 10 -n 8 -l stats.log
 ```
 
 #### Available Arguments
@@ -128,7 +128,7 @@ Log files contain timestamp-prefixed entries for all metrics, perfect for long-t
 
 1. **Permission Denied**
    ```bash
-   chmod +x server-monitor.sh
+   chmod +x server-stats.sh
    ```
 
 2. **Missing Dependencies**
