@@ -50,4 +50,6 @@ Additional Stats:
 OS Version: macOS Sequoia 15.0.1
 System Uptime: 49 mins
 Load Average: 1.73 1.60 2.15
-</details>```
+
+
+</details>
