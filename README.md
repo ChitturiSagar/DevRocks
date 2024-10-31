@@ -29,7 +29,7 @@ This script is compatible with both **macOS** and **Linux**. Specific adjustment
    chmod +x server-stats.sh
 
 <details> <summary>Click to expand</summary>
-
+```plaintext
 Server Performance Stats
 
 Total CPU Usage:
@@ -50,4 +50,4 @@ Additional Stats:
 OS Version: macOS Sequoia 15.0.1
 System Uptime: 49 mins
 Load Average: 1.73 1.60 2.15
-</details>
+</details>```
