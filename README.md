@@ -117,7 +117,7 @@ LOG_FILE=""
 Enable logging to keep track of historical data:
 
 ```bash
-./server-monitor.sh -l /path/to/server-stats.log
+./server-stats.sh -l /path/to/server-stats.log
 ```
 
 Log files contain timestamp-prefixed entries for all metrics, perfect for long-term analysis.
