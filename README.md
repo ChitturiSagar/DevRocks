@@ -154,4 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 #
 
 ---
-Made with ❤️ by [Sagar Using Clade.ai]
+Made with ❤️ by Sagar using AI.
